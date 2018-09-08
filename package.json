@@ -1,0 +1,26 @@
+{
+  "name": "verbose-goggles",
+  "version": "0.0.1",
+  "description": "Wage Calculator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KentPM/verbose-goggles.git"
+  },
+  "keywords": [
+    "wages",
+    "223/58"
+  ],
+  "author": "Patrick Kent",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KentPM/verbose-goggles/issues"
+  },
+  "homepage": "https://github.com/KentPM/verbose-goggles#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
